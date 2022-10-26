@@ -2,6 +2,7 @@ import Profile from './Profile.js';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
       <Profile pfpColor="red" username="User 1"></Profile>
